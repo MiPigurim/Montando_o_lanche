@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - JavaScript
 - VueJS
+- Bootstrap
 - Git e Github
 
 ## 💻 Projeto
